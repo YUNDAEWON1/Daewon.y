@@ -7,7 +7,9 @@ Bridge
 - 플레이어가 지니간 다리는 삭제하고 새로운 다리의 시작점을 만든다.
 - Rotary의 Trigger를 설정하여 Player가 Trigger 안에 진입시 회전이 가능하게 Player의 상태를 회전 가능한 상태로 변경하여 회전한다.
 
+
 Player
--Player는 Raycast를 활용하여 이동과 충돌을 검사
--회전각을 구하여 좌,우 회전
+
+- Player는 Raycast를 활용하여 이동과 충돌을 검사
+- 회전각을 구하여 좌,우 회전
 
